@@ -9,3 +9,14 @@
     @tailwind utilities;
     @tailwind components;
   ```
+* Add inter font in index.html:
+
+```html
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Mochiy+Pop+P+One&display=swap" rel="stylesheet" />
+```
+
+* StoryBook (doc) 
+  * `npx storybook init --builder @storybook/builder-vite --use-npm`
+  * `npm run storybook`
