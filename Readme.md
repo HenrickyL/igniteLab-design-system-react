@@ -20,3 +20,7 @@
 * StoryBook (doc) 
   * `npx storybook init --builder @storybook/builder-vite --use-npm`
   * `npm run storybook`
+
+* clsx - conditional in tailwind `npm install --save clsx`
+
+* Radix `npm install @radix-ui/react-slot`
