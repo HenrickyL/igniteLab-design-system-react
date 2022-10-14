@@ -27,3 +27,7 @@
 
 * phosphor React - `npm install phosphor-react`
 * Radix checkbox `npm install @radix-ui/react-checkbox`
+
+
+![](figma.png)
+![](IgLab1.png)
