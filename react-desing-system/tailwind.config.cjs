@@ -14,15 +14,20 @@ module.exports = {
         '2xl':32
       },
       colors:{
+        trasparent:'transparent',
         black: '#000',
         white: '#fff',
-        'gray-800': '#202024',
-        'gray-400': '#7c7c8a',
-        'gray-100': '#e1e1e6',
-        'gray-900': '#121214',
-        'gray-200': '#c4c4cc',
-        'cyan-500': '#81d8f7',
-        'cyan-300': '#98e1f8',
+        gray:{
+          100: '#e1e1e6',
+          200: '#c4c4cc',
+          400: '#7c7c8a',
+          800: '#202024',
+          900: '#121214',
+        },
+        cyan:{
+          300: '#98e1f8',
+          500: '#81d8f7',
+        }
       },
       fontFamily: {
         sans: "Inter, sans-serif"

@@ -24,3 +24,5 @@
 * clsx - conditional in tailwind `npm install --save clsx`
 
 * Radix `npm install @radix-ui/react-slot`
+
+* phosphor React - `npm install phosphor-react`
