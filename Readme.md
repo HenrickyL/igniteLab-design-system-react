@@ -42,5 +42,8 @@
 
 * axios - `npm install axios`
 
+* Mock - Mock Service Worker - `npm i msw msw-storybook-addon -D`
+  * `npx msw init public/`
+
 ![](figma.png)
 [![Storybook](IgLab1.png)](https://henrickyl.github.io/igniteLab-design-system-react/)
