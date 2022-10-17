@@ -30,6 +30,7 @@
 
 * Deploy - `npm i @storybook/storybook-deployer --save-dev`
   * add package.json - `"deploy-storybook": "storybook-to-ghpages"`
+  * [doc](https://github.com/storybookjs/storybook-deployer)
 
 ![](figma.png)
 ![](IgLab1.png)
