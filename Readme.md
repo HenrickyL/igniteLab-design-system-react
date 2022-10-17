@@ -38,4 +38,4 @@
 
 
 ![](figma.png)
-[![Storybook](IgLab1.png)](https://henrickyl.github.io/igniteLab-design-system-react/){:target="_blank"}
+[![Storybook](IgLab1.png)](https://henrickyl.github.io/igniteLab-design-system-react/)
