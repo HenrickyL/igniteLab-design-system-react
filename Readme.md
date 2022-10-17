@@ -31,6 +31,9 @@
 * Deploy - `npm i @storybook/storybook-deployer --save-dev`
   * add package.json - `"deploy-storybook": "storybook-to-ghpages"`
   * [doc](https://github.com/storybookjs/storybook-deployer)
+  * deploy Storybook in [https://henrickyl.github.io/igniteLab-design-system-react/](https://henrickyl.github.io/igniteLab-design-system-react/)
+  * accessibility on Storybook - `npm install @storybook/addon-a11y`
+
 
 ![](figma.png)
 ![](IgLab1.png)
