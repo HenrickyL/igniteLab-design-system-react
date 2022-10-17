@@ -36,6 +36,11 @@
   * deploy Storybook in [https://henrickyl.github.io/igniteLab-design-system-react/](https://henrickyl.github.io/igniteLab-design-system-react/)
   * accessibility on Storybook - `npm install @storybook/addon-a11y`
 
+* Storybook Interactions - `npm install -D @storybook/addon-interactions @storybook/jest @storybook/testing-library @storybook/test-runner`
+  * storybook/main add - `interactionsDebugger: true,`
+  * test-storybook - `test-storybook --watch`
+
+* axios - `npm install axios`
 
 ![](figma.png)
 [![Storybook](IgLab1.png)](https://henrickyl.github.io/igniteLab-design-system-react/)
