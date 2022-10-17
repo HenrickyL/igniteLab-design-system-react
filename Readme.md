@@ -28,6 +28,8 @@
 * phosphor React - `npm install phosphor-react`
 * Radix checkbox `npm install @radix-ui/react-checkbox`
 
+* Deploy - `npm i @storybook/storybook-deployer --save-dev`
+  * add package.json - `"deploy-storybook": "storybook-to-ghpages"`
 
 ![](figma.png)
 ![](IgLab1.png)
