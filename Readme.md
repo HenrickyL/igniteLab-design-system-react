@@ -1,5 +1,7 @@
 # Ignite lab 2022
 
+![page](ignite-lab-page.png)
+
 * `npm create vite@latest`
 * `npm install -D tailwindcss postcss autoprefixer`
   * `npx tailwindcss init -p`
@@ -36,4 +38,4 @@
 
 
 ![](figma.png)
-![](IgLab1.png)
+[![Storybook](IgLab1.png)](https://henrickyl.github.io/igniteLab-design-system-react/)
